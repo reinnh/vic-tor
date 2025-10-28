@@ -96,7 +96,7 @@ const Contact: React.FC = () => {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
-            toEmail: "onyanfo@gmail.com",
+            toEmail: "victoronyanfo@gmail.com",
             clientEmail: form.email,
             name: form.name,
             message: form.message,
