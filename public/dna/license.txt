@@ -1,0 +1,11 @@
+Model Information:
+* title:	DNA, RNA Animated Visualization
+* source:	https://sketchfab.com/3d-models/dna-rna-animated-visualization-f0ef115f9e9646a28642a2d509b8d727
+* author:	Orpind (https://sketchfab.com/leondp)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DNA, RNA Animated Visualization" (https://sketchfab.com/3d-models/dna-rna-animated-visualization-f0ef115f9e9646a28642a2d509b8d727) by Orpind (https://sketchfab.com/leondp) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
